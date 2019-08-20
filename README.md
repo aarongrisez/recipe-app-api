@@ -1,0 +1,1 @@
+This repo contains my work following a Udemy course on Django and the Django REST Framework.
